@@ -1,0 +1,27 @@
+/*
+Theme Name:     E-Commerce
+Description:    
+Author:         harpuneetkaurr
+Template:       twentytwentyfive
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+:root {
+  --blue: #1e90ff;
+  --white: #ffffff; 
+  --Red: #F4C2C2;
+}
+Body{
+	Background-color: #F4C2C2;
+	color: #1e90ff;
+}
+h1{
+	font-family: "Times New Roman", Times, serif;	
+}
+h2{
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+Footer{
+	color:  #1e90ff;
+	Background-color: #F5F5DC;
+}
